@@ -63,3 +63,9 @@ Share images, automate workflows, and more with a free Docker ID:
 For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
+
+Installing VIM (As it wasn't installed)
+
+```console
+shubham@Shubham-Workstation:~$ sudo apt-get install vim
+```
