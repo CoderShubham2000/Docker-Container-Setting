@@ -64,10 +64,4 @@ For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
 
-OutPut when we run the Docker File:
-
-<pre><font color="#4E9A06"><b>shubham@Shubham-Workstation</b></font>:<font color="#3465A4"><b>~/Desktop/Docker-Container-Setting-main</b></font>$ sudo docker ps
-[sudo] password for shubham: 
-CONTAINER ID   IMAGE                    COMMAND                  CREATED          STATUS          PORTS                               NAMES
-9e6dadc2b450   docker/Docker-TCS_Rio    &quot;/docker-entrypoint.…&quot;   40 minutes ago   Up 40 minutes   0.0.0.0:80-&gt;80/tcp, :::80-&gt;80/tcp   shubham_d32
-</pre>
+The Output screenshot is in the OutPut Folder
