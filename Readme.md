@@ -64,8 +64,4 @@ For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
 
-Installing VIM (As it wasn't installed)
-
-```console
-shubham@Shubham-Workstation:~$ sudo apt-get install vim
-```
+Then run the files in the repo serially
