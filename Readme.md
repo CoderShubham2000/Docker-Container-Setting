@@ -64,4 +64,4 @@ For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
 
-The Output screenshot is in the OutPut Folder
+OutPut (Container Running): Shubham_RIO_Output.png
